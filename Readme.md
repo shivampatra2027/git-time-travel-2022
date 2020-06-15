@@ -1,6 +1,1 @@
-# Git Time Travel
-
-Experimenting with Git commit timestamps.
-
-Created as a Git internals experiment.
-this is 2020
+Testing Git timestamp metadata - 2020 experiment
